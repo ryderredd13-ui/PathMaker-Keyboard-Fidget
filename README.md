@@ -4,5 +4,6 @@ Anywayss... my spin on this project was to make it customizable!! i made a custo
 
 Here are some pics-
 ![alt text](https://user-cdn.hackclub-assets.com/019df0d3-404a-7958-b6a5-bcbdc4aa00ef/Screenshot%202026-05-02%20193341.png)
+![alt text](https://user-cdn.hackclub-assets.com/019dfa3b-7b7f-7222-a02f-796151d33ba6/Screenshot%202026-05-05%20162007.png)
 And heres my BOM-
 [text](../../../Downloads/PathMaker-BOM.md)
